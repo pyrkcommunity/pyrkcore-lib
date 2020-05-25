@@ -1,5 +1,5 @@
 {
-  "name": "pyrkcore-lib",
+  "name": "@pyrkcommunity/pyrkcore-lib",
   "version": "0.18.1",
   "description": "A pure and powerful JavaScript Pyrk library.",
   "main": "index.js",
